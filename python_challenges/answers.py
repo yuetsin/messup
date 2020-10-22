@@ -226,7 +226,6 @@ results = {
     # Exception(Exception) not is True.
     # id(id) 会返回一个大数字，但 not is True。
     # hash(hash) 同理。
-    # # 这什么破题目
     # 要想 is True，那好像真的只能给一个 True。
     # 除了 bool 的构造函数，还有谁可以做到？
     # callable. 判断这个对象是否可以被调用。
